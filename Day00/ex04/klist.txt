@@ -1,0 +1,5 @@
+Credentials cache: API:5192
+        Principal: ikosheva@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 28 13:50:39 2022  Jun 28 23:50:39 2022  krbtgt/HIVE.FI@HIVE.FI
